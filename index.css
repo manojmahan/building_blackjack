@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url('https://imgs.search.brave.com/qU3j2wqDjlUuA6RSE4bJuGH4BJxoscbEjWT7oQMA5tU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzg0Lzc4LzI5/LzM2MF9GXzE4NDc4/MjkyMF9GMFQwTG4x/Q2J6TllFZThpV2Nv/b2hKVGU5STE2NTNj/QS5qcGc');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight:bold;
+}
+h1 {
+    color: goldenrod;
+} 
+
+#message-el{
+    font-style: italic;
+}
+
+button {
+    width: 150px;
+    color: #016f32;
+    background-color: goldenrod;
+    font-style: normal;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
